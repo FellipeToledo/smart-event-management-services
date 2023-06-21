@@ -1,2 +1,2 @@
-# smart-event-management-services
-Repositório designado para serviços do projeto SEM (Smart Event Management)
+# Smart Event Management Services
+Repositório destinado aos serviços do projeto SEM (Smart Event Management)
