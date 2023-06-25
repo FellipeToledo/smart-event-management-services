@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/authservice/authservice.iml" filepath="$PROJECT_DIR$/authservice/authservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-service/security-service.iml" filepath="$PROJECT_DIR$/security-service/security-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smart-event-management-services.iml" filepath="$PROJECT_DIR$/.idea/smart-event-management-services.iml" />
     </modules>
   </component>
